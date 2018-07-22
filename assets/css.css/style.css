@@ -239,6 +239,7 @@ h3 {
     padding-right: 5%;
     padding-bottom: 5%;
     padding-left: 5%;
+    background-image: url("../images/gray_jean/gray_jean.png")
   }
   
   #center-space {
@@ -265,6 +266,7 @@ h3 {
   .caption {
     padding-left: 10px;
     padding-right: 10px;
+    
   }
   
   /*************************************
