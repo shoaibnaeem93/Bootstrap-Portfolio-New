@@ -333,8 +333,8 @@ h3 {
 .w3layouts-foot ul li a {
     width: 64px;
     height: 64px;
-    color: #fff;
-    border: 1px solid #fff;
+    color: #4bc5bf;
+    border: 1px solid #4bc5bf;
     text-align: center;
     display: inline-block;
     font-size: 48px;
@@ -343,11 +343,13 @@ h3 {
 }
 
 a.agile_github:hover {
+    color: white;
     background: black;
     border: 1px solid black;
 }
 
 a.agile_linkedin:hover {
+    color: white;
     background: #1178b3;
     border: 1px solid #1178b3;
 }
