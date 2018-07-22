@@ -20,7 +20,7 @@ html, body {
     .display { font-size: 50px; }
 }  
 @media (min-width: 576px) {
-    .display { font-size: 80px; }
+    .display { font-size: 62px; }
 }
 @media (min-width: 768px) {
     .display { font-size: 80px; }
@@ -40,7 +40,7 @@ html, body {
 }
   
 @media (min-width: 576px) {
-  .lead { font-size: 27px; }
+  .lead { font-size: 25px; }
 }
 @media (min-width: 768px) {
   .lead { font-size: 27px; }
