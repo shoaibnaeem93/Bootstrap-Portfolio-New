@@ -23,16 +23,17 @@ html, body {
 
 .display { 
   color: white;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
+  font-family: 'Russo One';
+}
 
 @media (min-width: 400px) {
     .display { font-size: 50px; }
 }  
 @media (min-width: 576px) {
-    .display { font-size: 62px; }
+    .display { font-size: 70px; }
 }
 @media (min-width: 768px) {
-    .display { font-size: 80px; }
+    .display { font-size: 90px; }
 }
 @media (min-width: 992px) {
     .display { font-size: 100px; }
@@ -45,20 +46,20 @@ html, body {
   color: #4bc5bf; }
   
 @media (min-width: 400px) {
-  .lead { font-size: 21px; }
+  .lead { font-size: 18px; }
 }
   
 @media (min-width: 576px) {
-  .lead { font-size: 25px; }
+  .lead { font-size: 22px; }
 }
 @media (min-width: 768px) {
-  .lead { font-size: 27px; }
+  .lead { font-size: 20px; }
 }
 @media (min-width: 992px) {
-  .lead { font-size: 30px; }
+  .lead { font-size: 25px; }
 }
 @media (min-width: 1200px) {
-  .lead { font-size: 30px; }
+  .lead { font-size: 25px; }
 }
 
 .navbar {
@@ -79,6 +80,7 @@ html, body {
 
 h3 {
   text-align: center;
+  font-family: 'Russo One';
 }
 
 .display-3 {
@@ -110,7 +112,7 @@ h3 {
   }
 
   h3 {
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: 'Russo One';
     font-weight: bold;
     color: #4aaaa5; 
   }
@@ -359,6 +361,8 @@ a.agile_linkedin:hover {
 }
 
 
+
+.img-ps {
+  margin-top: 4%;
 }
-
-
+}
