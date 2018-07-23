@@ -363,11 +363,15 @@ a.agile_linkedin:hover {
 
 
 .img-ps {
-  margin-top: 30%;
+  margin-top: 10%;
 }
 
 .img-pr {
-  margin-top: 30%;
+  margin-top: 10%;
+}
+
+.img-js {
+  margin-top: 3%;
 }
 
 img {
@@ -375,7 +379,7 @@ img {
 }
 
 .display-3 { 
-  color: white;
+  color: black ;
   font-family: 'Russo One';
 }
 
