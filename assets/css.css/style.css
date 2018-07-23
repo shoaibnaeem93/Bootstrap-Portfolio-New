@@ -363,6 +363,35 @@ a.agile_linkedin:hover {
 
 
 .img-ps {
-  margin-top: 4%;
+  margin-top: 30%;
 }
+
+.img-pr {
+  margin-top: 30%;
 }
+
+img {
+  display: inline-block !important;
+}
+
+.display-3 { 
+  color: white;
+  font-family: 'Russo One';
+}
+
+@media (min-width: 400px) {
+    .display-3 { font-size: 35px; }
+}  
+@media (min-width: 576px) {
+    .display-3 { font-size: 55px; }
+}
+@media (min-width: 768px) {
+    .display-3 { font-size: 70px; }
+}
+@media (min-width: 992px) {
+    .display-3 { font-size: 85px; }
+}
+@media (min-width: 1200px) {
+    .display-3 { font-size: 100px; }
+}
+
